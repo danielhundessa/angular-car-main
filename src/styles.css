@@ -1,0 +1,14 @@
+/* styles.css or styles.scss */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+html, body {
+  height: 100%;
+  font-family: 'Dancing Script', cursive;
+  margin: 0;
+}
+
+.box {
+  @apply bg-white rounded-lg shadow-lg p-6;
+}

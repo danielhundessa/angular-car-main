@@ -1,0 +1,32 @@
+@keyframes changeBackground {
+    0% { background-image: url("https://www.hanashisha.com/wp-content/uploads/2021/05/1kg-Flavors.jpg"); }
+    25% { background-image: url("https://www.hanashisha.com/wp-content/uploads/2021/05/Lemon-Flavors-All-Sizes.jpg"); }
+    50%{
+        background-image: url("https://www.hanashisha.com/wp-content/uploads/2021/05/Double-Apple.jpg");
+    }
+    75%{
+        background-image: url("https://www.hanashisha.com/wp-content/uploads/2021/05/Love.jpg");
+    }
+    /* https://www.zestmelange.com/cdn/shop/files/zest_banner_2.png?v=1632722327 */
+    100% { background-image: url("https://www.hanashisha.com/wp-content/uploads/2021/05/Grape-Mint.jpg"); }
+}
+
+/* Apply animation to .banner element */
+.banner {
+    width: 100%;
+    height: 91.2vh;
+    background-size: cover;
+    animation: changeBackground 20s infinite; /* Change image every 3 seconds */
+}
+
+@media only screen and (max-width: 1000px) {
+    .banner {
+        height: 500px;
+    }
+  }
+
+@media only screen and (max-width: 768px) {
+    .banner {
+        height: 200px;
+    }
+  }
