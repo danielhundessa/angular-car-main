@@ -12,10 +12,10 @@ import { BannerComponent } from '../banner/banner.component';
   styleUrl: './home.component.css',
 })
 export class HomeComponent {
-  flavour: any;
+  car: any;
 
   constructor() {
-    this.flavour = lehngacholiPage2.slice(0, 9);
+    this.car = lehngacholiPage2.slice(0, 9);
 
   }
 }

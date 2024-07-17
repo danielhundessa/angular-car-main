@@ -1,14 +1,14 @@
 @keyframes changeBackground {
-    0% { background-image: url("https://www.hanashisha.com/wp-content/uploads/2021/05/1kg-Flavors.jpg"); }
-    25% { background-image: url("https://www.hanashisha.com/wp-content/uploads/2021/05/Lemon-Flavors-All-Sizes.jpg"); }
+    0% { background-image: url("https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229208/4952202991889394835_azmqkc.jpg"); }
+    25% { background-image: url("https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229205/4952202991889394855_nwdtnk.jpg"); }
     50%{
-        background-image: url("https://www.hanashisha.com/wp-content/uploads/2021/05/Double-Apple.jpg");
+        background-image: url("https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229203/4952202991889394856_cceb1f.jpg");
     }
     75%{
-        background-image: url("https://www.hanashisha.com/wp-content/uploads/2021/05/Love.jpg");
+        background-image: url("https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229203/4952202991889394885_zmtxg9.jpg");
     }
     /* https://www.zestmelange.com/cdn/shop/files/zest_banner_2.png?v=1632722327 */
-    100% { background-image: url("https://www.hanashisha.com/wp-content/uploads/2021/05/Grape-Mint.jpg"); }
+    100% { background-image: url("https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229206/4952202991889394848_oh2xhv.jpg"); }
 }
 
 /* Apply animation to .banner element */

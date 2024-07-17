@@ -1,26 +1,26 @@
 export const lehngacholiPage2=[
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2021/05/1kg-Flavors.jpg",
-    title: "Mint",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229208/4952202991889394835_azmqkc.jpg",
+    title: "call for price",
 
   },
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2021/05/Lemon-Flavors-All-Sizes.jpg",
-    title: "Lemon",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229203/4952202991889394856_cceb1f.jpg",
+    title: "call for price",
 
   },
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2020/05/Grape-Mint-_Classic-e1590258450547.png",
-    title: "Grape",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229208/4952202991889394837_wqzyw2.jpg",
+    title: "call for price",
 
   },
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2020/05/Double-Apple-_Classic-e1590257982263.png",
-    title: "Double Apple",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229207/4952202991889394838_szkxze.jpg",
+    title: "call for price",
 
   },
 
@@ -29,56 +29,56 @@ export const lehngacholiPage2=[
 export const forFlavours=[
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2020/05/Double-Apple-_Classic-e1590257982263.png",
-    title: "Double Apple",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229207/4952202991889394838_szkxze.jpg",
+    title: "call for price",
 
   },
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2020/05/Mint-Classic-e1590258566434.png",
-    title: "Mint",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229205/4952202991889394849_jt3tq6.jpg",
+    title: "call for price",
 
   },
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2020/05/Lemon-Mint-_Classic-e1590258537873.png",
-    title: "Lemon",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229203/4952202991889394885_zmtxg9.jpg",
+    title: "call for price",
 
   },
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2020/05/Lemon-_Classic-e1590258500396.png",
-    title: "Lemon Mint",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229203/4952202991889394856_cceb1f.jpg",
+    title: "call for price",
 
   },
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2020/05/Grape-Mint-_Classic-e1590258450547.png",
-    title: "Grape",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229208/4952202991889394836_cvmeb8.jpg",
+    title: "call for price",
 
   },
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2020/05/Grape-_Classic-e1590258413773.png",
-    title: "Grape Mint",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229208/4952202991889394837_wqzyw2.jpg",
+    title: "call for price",
 
   },
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2021/04/Gum-_Classic.png",
-    title: "Gum",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229206/4952202991889394848_oh2xhv.jpg",
+    title: "call for price",
 
   },
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2020/05/Double-Apple-_Classic-e1590257982263.png",
-    title: "Double Apple",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229206/4952202991889394843_ercmmw.jpg",
+    title: "call for price",
 
   },
   {
     "imageUrl":
-      "https://www.hanashisha.com/wp-content/uploads/2021/04/Gum-Mint-_Classic.png",
-    title: "Gum Mint",
+      "https://res.cloudinary.com/ds9ou3eoo/image/upload/v1721229203/4952202991889394870_fizivq.jpg",
+    title: "call for price",
 
   },
 ];
